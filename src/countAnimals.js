@@ -1,6 +1,6 @@
 const data = require('../data/zoo_data');
 
-const countAnimals = (animal) => {
+const countAnimals = () => {
   // seu código aqui
 };
 
